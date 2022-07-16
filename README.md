@@ -1,22 +1,8 @@
-[README.md](https://github.com/EkamSinghWalia/Subdomain-Alive-Favicon/files/9126130/README.md)
-
-
 # Subdomain-Alive-Favicon
 
 Python tool to -Enumerate subdomain of given domain.
 -Check alive Domains. -Get Favicon hash.
 
-
-
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
     
 ## Deployment
 
